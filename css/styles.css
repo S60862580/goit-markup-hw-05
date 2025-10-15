@@ -489,7 +489,7 @@ a {
 .backdrop.is-open {
   opacity: 1;
   visibility: visible;
-  pointer-events: auto;
+  pointer-events: initial;
 }
 .modal {
   padding: 72px 24px 24px 24px;
