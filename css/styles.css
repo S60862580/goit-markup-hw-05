@@ -507,7 +507,7 @@ a {
   color: #ffffff;
 }
 .footer-form-btn {
-  width: 165px;
+  min-width: 165px;
   height: 40px;
   display: flex;
   justify-content: center;
@@ -603,6 +603,9 @@ a {
   margin-bottom: 16px;
 }
 .modal-form-field {
+  margin-bottom: 8px;
+}
+.modal-form-comment {
   margin-bottom: 16px;
 }
 .modal-form-label {
