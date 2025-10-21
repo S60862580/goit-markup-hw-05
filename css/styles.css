@@ -219,7 +219,7 @@ a {
   color: #434455;
   margin-top: 8px;
 }
-.footer-form-label {
+.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
